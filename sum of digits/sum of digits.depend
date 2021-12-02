@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1628838816 source:c:\users\parshuramrai\documents\c programs\sum of digits\main.c
+	<stdio.h>
+	<stdlib.h>
+

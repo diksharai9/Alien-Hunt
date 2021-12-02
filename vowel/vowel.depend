@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1628854118 source:c:\users\parshuramrai\documents\c programs\vowel\main.c
+	<stdio.h>
+	<stdlib.h>
+

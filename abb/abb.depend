@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1628842782 source:c:\users\parshuramrai\documents\c programs\abb\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1628911566 source:c:\users\parshuramrai\documents\c programs\overflow\main.c
+	<stdio.h>
+	<stdlib.h>
+

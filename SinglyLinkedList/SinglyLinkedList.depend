@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1637988001 source:c:\users\parshuramrai\documents\c programs\singlylinkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+

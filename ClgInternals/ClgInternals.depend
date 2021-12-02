@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1637417226 source:c:\users\parshuramrai\documents\c programs\clginternals\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1637417743 source:c:\users\parshuramrai\documents\c programs\clginternals\arrays.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637984749 source:c:\users\parshuramrai\documents\c programs\parenthesis checker\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
